@@ -7,5 +7,8 @@ some inspiring company or organization
 - github: https://github.com/Doist
 - co-founder: http://amix.dk/
 
+### [niice](https://niice.co/)
+
+A beautifully simple tool to create moodboards. Niice
 
 
