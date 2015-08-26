@@ -17,4 +17,6 @@ A beautifully simple tool to create moodboards. Niice
 
 ### [dropbox](https://www.dropbox.com/)  
 
+### [instagram](http://instagram.com)  
 
+- blog: [instagram blog](http://blog.instagram.com)
