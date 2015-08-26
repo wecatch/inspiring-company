@@ -9,6 +9,12 @@ some inspiring company or organization
 
 ### [niice](https://niice.co/)
 
-A beautifully simple tool to create moodboards. Niice
+A beautifully simple tool to create moodboards. Niice  
+
+### [apple](http://www.apple.com)  
+
+- designed by apple [designed by apple](https://www.youtube.com/watch?v=xpmfTNjpF8U)  
+
+### [dropbox](https://www.dropbox.com/)  
 
 
