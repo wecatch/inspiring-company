@@ -20,3 +20,8 @@ A beautifully simple tool to create moodboards. Niice
 ### [instagram](http://instagram.com)  
 
 - blog: [instagram blog](http://blog.instagram.com)
+
+### [thoughtbot](https://thoughtbot.com/)
+
+- blog: [robots](https://robots.thoughtbot.com/)
+
