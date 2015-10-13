@@ -25,3 +25,8 @@ A beautifully simple tool to create moodboards. Niice
 
 - blog: [robots](https://robots.thoughtbot.com/)
 
+### [leftlogic](http://leftlogic.com/)
+
+- blog: [remysharp](https://remysharp.com)
+
+
