@@ -41,3 +41,6 @@ We build solutions for the web and mobile devices.
 
 You code, we take care of the rest
 
+### [atomicobject](https://atomicobject.com/)
+
+we take a product development approach, helping you create valuable software that people will love to use.
