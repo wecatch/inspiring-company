@@ -48,3 +48,14 @@ we take a product development approach, helping you create valuable software tha
 ### [apiary](https://apiary.io/)
 
 Powerful API Design Stack. Built for Developers
+
+### [quantifiedcode](https://www.quantifiedcode.com/)
+
+Automated code review & repair
+
+- [doc](http://docs.quantifiedcode.com/python-code-patterns/index.html)
+- [knowledge](https://www.quantifiedcode.com/knowledge-base/)
+
+ 
+
+
