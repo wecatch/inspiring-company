@@ -56,6 +56,8 @@ Automated code review & repair
 - [doc](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 - [knowledge](https://www.quantifiedcode.com/knowledge-base/)
 
- 
+### [auth0](https://auth0.com)
+
+Add authentication to your web in under 10 minutes
 
 
