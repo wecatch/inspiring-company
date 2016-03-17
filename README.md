@@ -60,4 +60,9 @@ Automated code review & repair
 
 Add authentication to your web in under 10 minutes
 
+### [revsys](http://www.revsys.com/)
+
+We are perfor­mance tuners,
+Django and PostgreSQL experts,
+infrastructure and scaling architects.
 
