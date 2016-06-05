@@ -66,3 +66,5 @@ We are perfor­mance tuners,
 Django and PostgreSQL experts,
 infrastructure and scaling architects.
 
+### [magic](http://magic.io/)
+
