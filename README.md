@@ -68,3 +68,6 @@ infrastructure and scaling architects.
 
 ### [magic](http://magic.io/)
 
+### [zapier](https://zapier.com/)
+
+Connect Your Apps and Automate Workflows
