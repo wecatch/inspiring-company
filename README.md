@@ -93,3 +93,11 @@ https://laracasts.com/
 ## binpress
 
 https://www.binpress.com/
+
+## clound drive 
+
+### insyncq
+
+管理 google drive 的同步应用
+
+https://www.insynchq.com/
