@@ -113,3 +113,9 @@ consult teaching
 ## https://teamtreehouse.com/
 
 computer train
+
+## deploy
+
+https://octopus.com/
+
+自动部署工具，可以再任意环境部署任意后端 APP 
